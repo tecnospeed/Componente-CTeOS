@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/02/15 17:55:52.000.793,C:\Users\diego.oliveira\Documents\Demos transporte\Demo CTeOS Delphi 10.2 Tokyo\ExemploCTe.dproj=C:\Users\diego.oliveira\Documents\Demos transporte\Demo CTeOS Delphi 10.2 Tokyo\ExemploCTeOS.dproj</Transaction>
+    <Transaction>2019/02/15 18:15:01.000.823,C:\Users\diego.oliveira\Documents\Demos transporte\Demo CTeOS Delphi 10.2 Tokyo\UCancelamentoCTe.pas=C:\Users\diego.oliveira\Documents\Demos transporte\Demo CTeOS Delphi 10.2 Tokyo\UCancelamentoCTeOS.pas</Transaction>
+    <Transaction>2019/02/15 18:15:01.000.823,C:\Users\diego.oliveira\Documents\Demos transporte\Demo CTeOS Delphi 10.2 Tokyo\UCancelamentoCTe.dfm=C:\Users\diego.oliveira\Documents\Demos transporte\Demo CTeOS Delphi 10.2 Tokyo\UCancelamentoCTeOS.dfm</Transaction>
+    <Transaction>2019/02/21 19:10:20.245,=C:\Users\diego.oliveira\Documents\Demos transporte\Demo CTeOS Delphi 10.2 Tokyo\Unit1.pas</Transaction>
+    <Transaction>2019/02/21 19:10:34.642,C:\Users\diego.oliveira\Documents\Demos transporte\Demo CTeOS Delphi 10.2 Tokyo\Eventos.pas=C:\Users\diego.oliveira\Documents\Demos transporte\Demo CTeOS Delphi 10.2 Tokyo\Unit1.pas</Transaction>
+    <Transaction>2019/02/21 19:10:57.303,=C:\Users\diego.oliveira\Documents\Demos transporte\Demo CTeOS Delphi 10.2 Tokyo\Unit1.pas</Transaction>
+    <Transaction>2019/02/21 19:11:20.452,C:\Users\diego.oliveira\Documents\Demos transporte\Demo CTeOS Delphi 10.2 Tokyo\Eventos.dfm=C:\Users\diego.oliveira\Documents\Demos transporte\Demo CTeOS Delphi 10.2 Tokyo\Unit1.dfm</Transaction>
+    <Transaction>2019/02/21 19:11:20.452,C:\Users\diego.oliveira\Documents\Demos transporte\Demo CTeOS Delphi 10.2 Tokyo\Eventos.pas=C:\Users\diego.oliveira\Documents\Demos transporte\Demo CTeOS Delphi 10.2 Tokyo\Unit1.pas</Transaction>
+    <Transaction>2019/02/21 19:11:44.314,C:\Users\diego.oliveira\Documents\Demos transporte\Demo CTeOS Delphi 10.2 Tokyo\UEventos.dfm=C:\Users\diego.oliveira\Documents\Demos transporte\Demo CTeOS Delphi 10.2 Tokyo\Eventos.dfm</Transaction>
+    <Transaction>2019/02/21 19:11:44.314,C:\Users\diego.oliveira\Documents\Demos transporte\Demo CTeOS Delphi 10.2 Tokyo\UEventos.pas=C:\Users\diego.oliveira\Documents\Demos transporte\Demo CTeOS Delphi 10.2 Tokyo\Eventos.pas</Transaction>
+  </Transactions>  <ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="UEventos.pas"/>
+    <File Path="UEventos.dfm"/>
+    <File Path="UCancelamentoCTeOS.pas"/>
+    <File Path="UCancelamentoCTeOS.dfm"/>
+    <File Path="UExemplo.pas"/>
+    <File Path="UExemplo.dfm"/>
+  </ProjectSortOrder>
+</BorlandProject>
