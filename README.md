@@ -5,4 +5,4 @@ Atualmente, contamos com o componente CTeOS, uma biblioteca para facilitar a emi
 
 ![image](https://github.com/tecnospeed/Componente-CTeOS/blob/master/CTeOS.png)
 
-**Para baixar a versão Trial, [clique aqui](https://tecnospeed-trial.s3.sa-east-1.amazonaws.com/setup_cteos_tecnoaccount_4.1.20.5199.exe "Baixar o Componente GRNe Trial")**.
+**Para baixar a versão Trial, [clique aqui](https://tecnospeed-trial.s3.sa-east-1.amazonaws.com/setup_cteos_tecnoaccount_4.1.20.5217.exe "Baixar o Componente CTeOS Trial")**.
