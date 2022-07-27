@@ -1,3 +1,8 @@
+## [4.1.20.5221]
+**Correções**
+- DSML-187 - TecnoAccount geração incorreta de arquivo
+- DSML-212 - Imprimir DANFE de cancelamento.
+
 ## [4.1.20.5217]
 **Novidades**
 - DSP4G-50 - NT 2022.001 v. 1.00 e 1.01 - 06/22
