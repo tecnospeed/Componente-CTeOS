@@ -1,4 +1,4 @@
-## [4.1.20.5221]
+## [4.1.20.5224]
 **Correções**
 - DSML-187 - TecnoAccount geração incorreta de arquivo
 - DSML-212 - Imprimir DANFE de cancelamento.
