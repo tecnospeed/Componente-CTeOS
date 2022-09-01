@@ -1,3 +1,10 @@
+
+## [4.1.20.5229]
+**Novidades**
+* DSP4G-143 - Adicionado no menu do Windows a opção de desinstalação do pacote de dependências.
+* DSP4G-395 - Adicionado ao pacote de instalação do componente o arquivo "IDs_LIBs_CTeOS.ini" contendo os ID´s das OCXs.
+* DSP4G-221 - Migrando os arquivos de templates para implementação "hardcoded".
+* DSP4G-65 - Adicionado método TestarEmailConfig para validar as configurações de email, para mais informações acesse: https://atendimento.tecnospeed.com.br/hc/pt-br/articles/8246605803031
 ## [4.1.20.5224]
 **Correções**
 - DSML-187 - TecnoAccount geração incorreta de arquivo
