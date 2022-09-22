@@ -1,3 +1,15 @@
+﻿## [4.1.20.5232]
+
+**Novidades:**
+
+* DCIT-1062 - Foram adicionadas as propriedades QtdeTentativasEmail e UseTLS nas configurações de E-mail, podendo ser configurado via propriedade ou por ini.
+* DSP4G-50 - NT 2022.001 v1.00 e v1.01 - Adição do campo CRT no grupo emit e atualizado Schema XML.
+* DSP4G-491 - adicionado propriedade CaracteresRemoverAcentos. Para mais detalhes acesse: https://atendimento.tecnospeed.com.br/hc/pt-br/articles/360006207534
+
+**Correções**
+
+* DSML-187: Solucionado o problema de gerava a mensagem de licença expirada para produto Tecnoacount.
+
 
 ## [4.1.20.5229]
 **Novidades**
@@ -25,3 +37,4 @@
 ## [4.1.20.5199]     
 **Novidades**
 - DCIT-955 - Alterar forma de configurar o modo SVC, agora é necessário informar se é SVCRS ou SVCSP.
+
