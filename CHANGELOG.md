@@ -1,4 +1,17 @@
-﻿## [4.1.20.5232]
+﻿## [4.1.20.5240]
+
+#leiame
+
+**Novidades**
+* DSP4G-787 - Compatibilizado com atualizações do componente indy
+
+**Correções**
+* DSML-187: Solucionado o problema de gerava a mensagem de licença expirada para produto Tecnoacount.
+* DSML-212: Correção da validação "Os XMLs de envio e cancelamento informados não pertencem a mesma CT-e OS" na impressão de cancelamento.
+* DSML-304: Correção do erro "Parâmetro aCNPJSoftwareHouse do método ConfigurarSoftwareHouse é obrigatório" ao enviar CCe.
+* DSML-411:  Solucionado o problema na geração do arquivo de licença para o produto Tecnoacount.
+
+## [4.1.20.5232]
 
 **Novidades:**
 
@@ -37,4 +50,5 @@
 ## [4.1.20.5199]     
 **Novidades**
 - DCIT-955 - Alterar forma de configurar o modo SVC, agora é necessário informar se é SVCRS ou SVCSP.
+
 
