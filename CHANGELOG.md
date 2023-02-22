@@ -1,6 +1,9 @@
 ﻿## [4.1.20.5242]
 
-* Corre&ccedil;&otilde;es e melhorias diversos.
+**Correções**
+* DSML-509 - Erro na validação de licença;
+* DSML-524 - Erro na mensagem do license;
+* DSML-486 - Correção nome do produdo pós-instalação;
 
 ## [4.1.20.5240]
 
