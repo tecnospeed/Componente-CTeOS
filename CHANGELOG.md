@@ -1,4 +1,8 @@
-﻿## [4.1.20.5240]
+﻿## [4.1.20.5242]
+
+* Corre&ccedil;&otilde;es e melhorias diversos.
+
+## [4.1.20.5240]
 
 #leiame
 
@@ -50,5 +54,6 @@
 ## [4.1.20.5199]     
 **Novidades**
 - DCIT-955 - Alterar forma de configurar o modo SVC, agora é necessário informar se é SVCRS ou SVCSP.
+
 
 
