@@ -1,4 +1,10 @@
-﻿## [4.1.20.5242]
+﻿## [4.1.21.2]
+
+**Novidade**
+
+* DSML-604 - Desativação do serviço de inutilização - NT 001.2023
+
+## [4.1.20.5242]
 
 **Correções**
 * DSML-509 - Erro na validação de licença;
@@ -57,6 +63,7 @@
 ## [4.1.20.5199]     
 **Novidades**
 - DCIT-955 - Alterar forma de configurar o modo SVC, agora é necessário informar se é SVCRS ou SVCSP.
+
 
 
 
