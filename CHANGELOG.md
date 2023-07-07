@@ -3,7 +3,8 @@
 
 **Novidades**
 
-* DSML-731 e DSML-608 - implementação do MOC versão 4.00;
+* DSML-608 - Compatibilizado nova versão 4.00, cuja maior impacto foi a eliminação do modelo de envio assíncrono, confira todas as alterações:
+https://blog.tecnospeed.com.br/ct-e-e-ct-e-os-manual-de-orientacoes-ao-contribuinte-versao-4-00/
 
 ## [4.1.21.2]
 
