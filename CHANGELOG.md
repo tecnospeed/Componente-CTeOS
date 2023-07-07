@@ -1,4 +1,11 @@
-﻿## [4.1.21.2]
+﻿## [4.1.22.8]
+
+
+**Novidades**
+
+* DSML-731 e DSML-608 - implementação do MOC versão 4.00;
+
+## [4.1.21.2]
 
 **Novidade**
 
@@ -63,6 +70,7 @@
 ## [4.1.20.5199]     
 **Novidades**
 - DCIT-955 - Alterar forma de configurar o modo SVC, agora é necessário informar se é SVCRS ou SVCSP.
+
 
 
 
