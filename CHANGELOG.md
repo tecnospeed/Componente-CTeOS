@@ -3,8 +3,7 @@
 
 **Novidades**
 
-* DSML-608 - Compatibilizado nova versão 4.00, cuja maior impacto foi a eliminação do modelo de envio assíncrono, confira todas as alterações:
-https://blog.tecnospeed.com.br/ct-e-e-ct-e-os-manual-de-orientacoes-ao-contribuinte-versao-4-00/
+* DSML-608 - Compatibilizado MOC versão 4.00, cuja as alterações Eliminação da Denegação e CTe de Anulação a eliminação do CTe de anulação, eliminação do serviço de inutilização entre outras alterações, confira todas as alterações: https://blog.tecnospeed.com.br/ct-e-e-ct-e-os-manual-de-orientacoes-ao-contribuinte-versao-4-00/
 
 ## [4.1.21.2]
 
