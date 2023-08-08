@@ -1,6 +1,8 @@
 ﻿## [4.1.23.10]
 
-* Corre&ccedil;&otilde;es e melhorias diversos.
+**Novidades**
+
+* DSML-819 - implementação do grupo infGTVe no MOC versão 4.00;
 
 ## [4.1.22.8]
 
