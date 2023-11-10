@@ -1,4 +1,8 @@
-﻿## [4.1.23.10]
+﻿## [5.1.23.11]
+
+DSML-900 - Atualizado Major Version do produto CTeOS
+
+## [4.1.23.10]
 
 **Novidades**
 
@@ -76,6 +80,7 @@
 ## [4.1.20.5199]     
 **Novidades**
 - DCIT-955 - Alterar forma de configurar o modo SVC, agora é necessário informar se é SVCRS ou SVCSP.
+
 
 
 
