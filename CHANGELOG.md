@@ -1,4 +1,10 @@
-﻿## [5.1.23.11]
+﻿## [5.1.23.16]
+
+**Correções**
+
+* DSML-1124 - HotFix - correção da comunicação para SEFAZ Mato Grosso (MT);
+
+## [5.1.23.11]
 
 DSML-900 - Atualizado Major Version do produto CTeOS
 
@@ -80,6 +86,7 @@ DSML-900 - Atualizado Major Version do produto CTeOS
 ## [4.1.20.5199]     
 **Novidades**
 - DCIT-955 - Alterar forma de configurar o modo SVC, agora é necessário informar se é SVCRS ou SVCSP.
+
 
 
 
