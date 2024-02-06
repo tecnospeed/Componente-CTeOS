@@ -1,4 +1,12 @@
-﻿## [5.1.23.16]
+﻿## [5.1.24.17]
+
+**Novidades**
+
+* DSML-1103 - alterado ocorrência do grupo **infCteComp** de 1-1 para 1-10 na versão [CT-e OS 4.00](https://tecnospeed.zendesk.com/hc/pt-br/articles/16199643740695)
+
+* DSP4G-774 - integração por arquivo no formato JSON pelo novo metodo [GerarXMLPorJson](https://tecnospeed.zendesk.com/hc/pt-br/articles/20882583768727)
+
+## [5.1.23.16]
 
 **Correções**
 
@@ -86,6 +94,7 @@ DSML-900 - Atualizado Major Version do produto CTeOS
 ## [4.1.20.5199]     
 **Novidades**
 - DCIT-955 - Alterar forma de configurar o modo SVC, agora é necessário informar se é SVCRS ou SVCSP.
+
 
 
 
