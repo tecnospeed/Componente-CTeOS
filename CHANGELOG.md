@@ -1,4 +1,12 @@
-﻿## [5.1.24.17]
+﻿## [5.1.25.20]
+
+**Novidades**
+
+- DSML-1015 - Compatibilização do intalador com o Delphi 12 Athenas
+
+- DSML-1107 - Compatibilização com a [Nota Técnica 2024.001](https://blog.tecnospeed.com.br/ct-e-e-ct-e-os-nota-tecnica-2024-001-novos-campos-e-alteracao-das-regras-de-validacao/?asl_highlight=Nota+T%C3%A9cnica+2024.001&p_asid=1)
+
+## [5.1.24.17]
 
 **Novidades**
 
@@ -94,6 +102,7 @@ DSML-900 - Atualizado Major Version do produto CTeOS
 ## [4.1.20.5199]     
 **Novidades**
 - DCIT-955 - Alterar forma de configurar o modo SVC, agora é necessário informar se é SVCRS ou SVCSP.
+
 
 
 
