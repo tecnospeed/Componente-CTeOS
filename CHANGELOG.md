@@ -1,4 +1,10 @@
-﻿## [5.1.25.20]
+﻿## [5.1.26.21]
+
+**Novidade**
+
+* DSP4G-1506 - Implementado verificação da licença nas rotinas de comunicação com a Sefaz
+
+## [5.1.25.20]
 
 **Novidades**
 
@@ -102,6 +108,7 @@ DSML-900 - Atualizado Major Version do produto CTeOS
 ## [4.1.20.5199]     
 **Novidades**
 - DCIT-955 - Alterar forma de configurar o modo SVC, agora é necessário informar se é SVCRS ou SVCSP.
+
 
 
 
