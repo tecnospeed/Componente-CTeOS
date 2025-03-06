@@ -1,4 +1,10 @@
-﻿## [5.1.26.21]
+﻿## [5.1.27.25]
+
+**Novidades**
+
+* 25.02.27 | Comp - CTeOS | DSML-1545 - Comp. CTeOs - Compatibilizar para o novo método de validação OAuth(https://atendimento.tecnospeed.com.br/hc/pt-br/articles/28687055351191)
+
+## [5.1.26.21]
 
 **Novidade**
 
@@ -108,6 +114,7 @@ DSML-900 - Atualizado Major Version do produto CTeOS
 ## [4.1.20.5199]     
 **Novidades**
 - DCIT-955 - Alterar forma de configurar o modo SVC, agora é necessário informar se é SVCRS ou SVCSP.
+
 
 
 
