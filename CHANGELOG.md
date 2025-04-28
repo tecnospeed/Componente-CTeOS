@@ -1,4 +1,10 @@
-﻿## [5.1.27.25]
+﻿## [5.1.28.26]
+
+**Correções**
+
+* 25.04.28 |DSML-1721 - Alterando o link de QR-Code para o estado de Minas GeraisAlterando o link de QR-Code para o estado de Minas Gerais
+
+## [5.1.27.25]
 
 **Novidades**
 
@@ -114,6 +120,7 @@ DSML-900 - Atualizado Major Version do produto CTeOS
 ## [4.1.20.5199]     
 **Novidades**
 - DCIT-955 - Alterar forma de configurar o modo SVC, agora é necessário informar se é SVCRS ou SVCSP.
+
 
 
 
