@@ -1,4 +1,12 @@
-﻿## [5.1.28.26]
+﻿## [6.1.0.1]
+
+**Novidades**
+
+* [CLML-2966](https://tecnospeed.atlassian.net/browse/CLML-2966) - Atualizando o componente com a [NT 2025.001](https://blog.tecnospeed.com.br/nota-tecnica-reforma-tributaria-ct-e/).
+* [CLML-3099](https://tecnospeed.atlassian.net/browse/CLML-3099) - Atualizando o componente com a [NT 2025.001](https://blog.tecnospeed.com.br/nota-tecnica-reforma-tributaria-ct-e/).
+* CLML-3149 - NT 2025.001 - adequação a [revisão v1.07](https://forum.casadodesenvolvedor.com.br/topic/49350-%F0%9F%9A%A8-cte-e-cte-os-agora-possuem-nt-exclusiva-para-a-reforma-tribut%C3%A1ria-do-consumo-nota-t%C3%A9cnica-2025001-v106/#findComment-54786) 
+
+## [5.1.28.26]
 
 **Correções**
 
@@ -120,6 +128,7 @@ DSML-900 - Atualizado Major Version do produto CTeOS
 ## [4.1.20.5199]     
 **Novidades**
 - DCIT-955 - Alterar forma de configurar o modo SVC, agora é necessário informar se é SVCRS ou SVCSP.
+
 
 
 
