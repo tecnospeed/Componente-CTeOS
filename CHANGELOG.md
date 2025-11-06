@@ -1,4 +1,11 @@
-﻿## [6.1.0.1]
+﻿## [6.1.1.3]
+
+**Novidades**
+
+* DSML-1907 - Atualizando XSD's com a NT [2025.001 V1.09](https://blog.tecnospeed.com.br/nota-tecnica-reforma-tributaria-ct-e/).
+* [DSML-1929](https://tecnospeed.atlassian.net/browse/DSML-1929) - Compatibilizando o componente com a[ ](https://blog.tecnospeed.com.br/eventos-reforma-tributaria-nfe-nfce/)[NT 2025.001 v1.10](https://blog.tecnospeed.com.br/nota-tecnica-reforma-tributaria-ct-e/)
+
+## [6.1.0.1]
 
 **Novidades**
 
@@ -128,6 +135,7 @@ DSML-900 - Atualizado Major Version do produto CTeOS
 ## [4.1.20.5199]     
 **Novidades**
 - DCIT-955 - Alterar forma de configurar o modo SVC, agora é necessário informar se é SVCRS ou SVCSP.
+
 
 
 
