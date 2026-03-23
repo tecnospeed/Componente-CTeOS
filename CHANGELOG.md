@@ -1,4 +1,10 @@
-﻿## [6.1.1.3]
+﻿## [6.1.1.4]
+
+**Novidades**
+
+* [DSML-1981](https://tecnospeed.atlassian.net/browse/DSML-1981) - Compatibilizando o componente com Delphi 13
+
+## [6.1.1.3]
 
 **Novidades**
 
@@ -135,6 +141,7 @@ DSML-900 - Atualizado Major Version do produto CTeOS
 ## [4.1.20.5199]     
 **Novidades**
 - DCIT-955 - Alterar forma de configurar o modo SVC, agora é necessário informar se é SVCRS ou SVCSP.
+
 
 
 
