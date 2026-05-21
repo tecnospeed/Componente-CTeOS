@@ -1,4 +1,11 @@
-﻿## [6.1.1.4]
+﻿## [6.1.1.6]
+
+**Novidades**
+
+* [ODSML-28858](http://odoo.tecnospeed.local/odoo/project/40/tasks/28858) - Ajustes da Reforma Tributaria [2026.001](https://blog.tecnospeed.com.br/nt-2026-001-vinculacao-de-pagamento-cte/)
+* [ODSML-27931](http://odoo.tecnospeed.local/odoo/project/40/tasks/27931) - Criação dos eventos de vínculo de pagamento e cancelamento do vínculo de pagamento
+
+## [6.1.1.4]
 
 **Novidades**
 
@@ -141,6 +148,7 @@ DSML-900 - Atualizado Major Version do produto CTeOS
 ## [4.1.20.5199]     
 **Novidades**
 - DCIT-955 - Alterar forma de configurar o modo SVC, agora é necessário informar se é SVCRS ou SVCSP.
+
 
 
 
