@@ -1,4 +1,10 @@
-﻿## [6.1.1.12]
+﻿## [7.1.0.1]
+
+**Novidades**
+
+* [ODSML-30523](http://odoo.tecnospeed.local/odoo/project/40/tasks/30523) - Compatibilizando o componente CTe OS com a [NT 2026.002](https://blog.tecnospeed.com.br/nt-2026-002-reforma-tributaria-ct-e/).
+
+## [6.1.1.12]
 
 Novidades
 
@@ -154,6 +160,7 @@ DSML-900 - Atualizado Major Version do produto CTeOS
 ## [4.1.20.5199]     
 **Novidades**
 - DCIT-955 - Alterar forma de configurar o modo SVC, agora é necessário informar se é SVCRS ou SVCSP.
+
 
 
 
