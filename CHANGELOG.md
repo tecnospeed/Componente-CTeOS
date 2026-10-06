@@ -1,4 +1,11 @@
-﻿## [7.1.0.1]
+﻿## [7.1.0.5]
+
+**Novidades**
+
+* ODSML-32135 - Criando validações de CNPJ antes do envio.
+* [ODSML-35625](http://odoo.tecnospeed.local/odoo/project/40/tasks/35625) - Criando o evento de Cancelamento de Prestação em Desacordo.
+
+## [7.1.0.1]
 
 **Novidades**
 
@@ -160,6 +167,7 @@ DSML-900 - Atualizado Major Version do produto CTeOS
 ## [4.1.20.5199]     
 **Novidades**
 - DCIT-955 - Alterar forma de configurar o modo SVC, agora é necessário informar se é SVCRS ou SVCSP.
+
 
 
 
