@@ -1,4 +1,10 @@
-﻿## [7.1.0.5]
+﻿## [7.1.0.9]
+
+Novidades
+
+* [ODSML-36054](http://odoo.tecnospeed.local/odoo/project/40/tasks/36054) - Compatibilizando o componente CTeOS com a NT [2026.004 v1.00](https://blog.tecnospeed.com.br/nt-rtc-2026-004-cte/)
+
+## [7.1.0.5]
 
 **Novidades**
 
@@ -167,6 +173,7 @@ DSML-900 - Atualizado Major Version do produto CTeOS
 ## [4.1.20.5199]     
 **Novidades**
 - DCIT-955 - Alterar forma de configurar o modo SVC, agora é necessário informar se é SVCRS ou SVCSP.
+
 
 
 
